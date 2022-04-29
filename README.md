@@ -10,7 +10,7 @@ https://assignmentsbag.com/assignments-for-class-12/
 
 
 
-if your encontered a error like "1080:DIRECT",it might caused by your proxy software.you 'd better do the fllowing work:
+if your encontered a error like "1080:DIRECT",it might caused by your proxy software.you 'd better do the following work:
 
 1.retart your computer
 2.run this program
